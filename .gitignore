@@ -1,0 +1,4 @@
+/.venv
+/chromadb-vdb/
+/my_store.vdb/
+/vehicules/
